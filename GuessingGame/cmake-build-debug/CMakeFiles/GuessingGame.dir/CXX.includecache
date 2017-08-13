@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ferdy/CLionProjects/GuessingGame/main.cpp
+iostream
+-
+cstdlib
+-
+string
+-
+sstream
+-
+cmath
+-
+ctime
+-
+
